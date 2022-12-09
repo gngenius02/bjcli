@@ -1,4 +1,4 @@
-#BJCLI
+# BJCLI
 
 ### Attempt to create a program to spit out best action for blackjack hand based on the following table:
 
@@ -7,6 +7,9 @@ P = Split
 H = Hit
 D = Double
 S = Stand
+
+Ace = 1
+JQK = 10
 ```
 
 ```
